@@ -1,4 +1,3 @@
 module.exports = function recursion(n) {
-	console.log(`recursion(${n})`);
-	console.log('v0.4.0');
+	console.log(`recursion(${n}) v0.5.0`);
 }
